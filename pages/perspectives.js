@@ -38,7 +38,7 @@ export default function Perspectives({ posts, initialDisplayPosts, pagination })
                 title={d.title}
                 description={d.summary}
                 imgSrc={d.imgSrc}
-                href={''}
+                href={`/blog/${slug}`}
               />
             ))}
           </div>
