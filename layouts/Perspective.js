@@ -25,8 +25,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                 <PageTitle>{title}</PageTitle>
               </div>            
             </div>
-            <div className="bg-gray-100 p-6 my-4 font-light text-gray-600	"> 
-                {summary} 
+            <div className="bg-gray-100 p-6 my-4 font-light text-gray-600"> {summary} 
             </div>
           </header>
           <div
