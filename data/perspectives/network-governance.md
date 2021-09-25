@@ -13,7 +13,7 @@ layout: Perspective
 
 Digital Communication Networks play an infrastructural role in public discourse and private communication. Though societies have successfully governed transformative technologies in the past, the pace and scale of changes enabled by DCNs are unprecedented. The Takshashila Institution believes that India needs to understand these changes and govern DCNs to maximise the surpluses they bring to Indian society while limiting the vulnerabilities they enable/exacerbate.
  
-## DEFINING DIGITAL COMMUNICATION NETWORKSefining Digital Communication Networks
+## DEFINING DIGITAL COMMUNICATION NETWORKS
 
 We define Digital Communication Networks (DCNs) as composite entities consisting of:
 -   Capability: Internet-based products/services that enable instantaneous low-cost or free communication across geographic, social, and cultural boundaries. This communication may be private (1:1), limited (1:n e.g. messaging groups), or broad (Twitter feeds, Facebook pages, YouTube videos, live streaming ), and so on.
