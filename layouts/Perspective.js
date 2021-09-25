@@ -27,12 +27,13 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
             </div>
           </header>
           <div
-            className="pb-8 divide-y divide-gray-200 xl:divide-y-0 dark:divide-gray-700 max-w-screen-2xl "
+            className="pb-8 divide-y divide-gray-200 xl:divide-y-0 dark:divide-gray-700 "
             style={{ gridTemplateRows: 'auto 1fr' }}
           >
             <div className="divide-y divide-gray-200 dark:divide-gray-700 xl:pb-0 xl:col-span-3 xl:row-span-2">
-              <div className="pt-10 pb-8 prose dark:prose-dark">{children}</div>
+              <div className="pt-10 pb-8 prose dark:prose-dark max-w-none">{children}</div>
             </div>
+            <Comments frontMatter={frontMatter} />
             <footer>
               <div className="flex flex-col text-sm font-medium sm:flex-row sm:justify-between sm:text-base">
                 {prev && (
