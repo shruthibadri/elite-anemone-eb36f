@@ -22,8 +22,8 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                 <PageTitle>{title}</PageTitle>
               </div>
                 {tags.map((tag) => (
-            <Tag key={tag} text={tag} />
-        ))}              
+                    <Tag key={tag} text={tag} />
+                 ))}              
             </div>
           </header>
           <div
