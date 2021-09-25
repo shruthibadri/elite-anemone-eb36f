@@ -10,7 +10,7 @@ export default function FourZeroFour() {
       </div>
       <div className="max-w-md">
         <p className="mb-4 text-xl font-bold leading-normal md:text-2xl">
-          Sorry look's .
+          Sorry look's like this page doesn't exist.
         </p>
         <p className="mb-8">But dont worry, you can find plenty of other things on our homepage.</p>
         <Link href="/">
