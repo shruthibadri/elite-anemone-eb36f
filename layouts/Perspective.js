@@ -14,7 +14,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
     <SectionContainer>
       <BlogSEO url={`${siteMetadata.siteUrl}/perspectives/${frontMatter.slug}`} {...frontMatter} />
       <ScrollTopAndComment />
-      <article>
+      <article max-w-prose>
         <div>
           <header>
             <div className="py-4 pr-0 lg:pr-8 space-y-1 text-left ">
