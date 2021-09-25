@@ -27,7 +27,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
             style={{ gridTemplateRows: 'auto 1fr' }}
           >
             <div className="divide-y divide-gray-200 dark:divide-gray-700 xl:pb-0 xl:col-span-3 xl:row-span-2">
-              <div className="pt-10 pb-8 pr-0 lg:pr-8 prose dark:prose-dark max-w-none">{children}</div>
+              <div className="max-w-prose pt-10 pb-8 pr-0 lg:pr-8 prose dark:prose-dark max-w-none">{children}</div>
             </div>
             <footer>
               <div className="flex flex-col text-sm font-medium sm:flex-row sm:justify-between sm:text-base">
