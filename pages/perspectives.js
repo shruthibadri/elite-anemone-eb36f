@@ -20,7 +20,7 @@ export async function getStaticProps() {
 export default function Perspectives({ posts, initialDisplayPosts, pagination }) {
   return (
     <>
-      <PageSEO 
+      <PageSEO
         title={`Perspectives - ${siteMetadata.author}`} description={siteMetadata.description} />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="pt-6 pb-8 space-y-2 md:space-y-5">
