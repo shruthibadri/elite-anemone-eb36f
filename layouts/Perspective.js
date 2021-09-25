@@ -25,7 +25,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                     <Tag key={tag} text={tag} />
                  ))}              
             </div>
-            <quote> {summary} </blockquote>
+            <quote> {summary} </quote>
           </header>
           <div
             className="pb-8 divide-y divide-gray-200 xl:divide-y-0 dark:divide-gray-700 "
