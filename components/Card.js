@@ -15,13 +15,13 @@ const Card = ({ title, description, imgSrc, href }) => (
           /> */}
         </Link>
       ) : (
-        <Image
-          alt={title}
-          src={imgSrc}
-          className="object-cover object-center lg:h-48 md:h-36"
-          width={544}
-          height={306}
-        />
+        // <Image
+        //   alt={title}
+        //   src={imgSrc}
+        //   className="object-cover object-center lg:h-48 md:h-36"
+        //   width={544}
+        //   height={306}
+        // />
       )}
       <div className="p-6">
         <h2 className="mb-3 text-2xl font-bold leading-8 tracking-tight">
