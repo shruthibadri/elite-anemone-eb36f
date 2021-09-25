@@ -9,7 +9,7 @@ summary: 'Digital Communication Networks are deeply intertwined in several aspec
 layout: Perspective
 ---
 
-# SUMMARY
+## SUMMARY
 
 Digital Communication Networks play an infrastructural role in public discourse and private communication. Though societies have successfully governed transformative technologies in the past, the pace and scale of changes enabled by DCNs are unprecedented. The Takshashila Institution believes that India needs to understand these changes and govern DCNs to maximise the surpluses they bring to Indian society while limiting the vulnerabilities they enable/exacerbate.
  
