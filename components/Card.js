@@ -1,5 +1,6 @@
 import Image from './Image'
 import Link from './Link'
+import Tag from '@/components/Tag'
 
 const Card = ({ title, description, imgSrc, href, tags }) => (
   <div className="p-4 md:w-1/2 md" style={{ maxWidth: '544px' }}>
