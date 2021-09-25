@@ -25,7 +25,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                     <Tag key={tag} text={tag} />
                  ))}              
             </div>
-            <div className="border border-indigo-600 "> 
+            <div className="border border-indigo-600 p-3"> 
                 {summary} 
             </div>
           </header>
