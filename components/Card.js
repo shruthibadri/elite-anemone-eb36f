@@ -25,7 +25,7 @@ const Card = ({ title, description, imgSrc, href, tags }) => (
         />
       )}
       <div className="p-6">       
-        <h2 className="text-2xl font-bold leading-8 tracking-tight">
+        <h2 className="mb-1 text-2xl font-bold leading-8 tracking-tight">
           {href ? (
             <Link href={href} aria-label={`Link to ${title}`}>
               {title}
