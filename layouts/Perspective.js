@@ -25,7 +25,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                     <Tag key={tag} text={tag} />
                  ))}              
             </div>
-            <div className=" "> 
+            <div className="p "> 
                 {summary} 
             </div>
           </header>
