@@ -38,7 +38,7 @@ const Card = ({ title, description, imgSrc, href, tags }) => (
           {tags.map((tag) => (
             <Tag key={tag} text={tag} />
           ))}
-        </div>         
+        </div>
         <p className="mb-3 prose text-gray-500 max-w-none dark:text-gray-400">{description}</p>
         {href && (
           <Link
