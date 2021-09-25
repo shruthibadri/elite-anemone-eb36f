@@ -16,7 +16,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
       <article>
         <div>
           <header>
-            <div className="pb-4 pr-0 lg:pr-8 space-y-1 text-left ">
+            <div className="pb-4 pr-0 lg:pr-8 space-y-1 text-center ">
               <div>
                 <PageTitle>{title}</PageTitle>
               </div>
