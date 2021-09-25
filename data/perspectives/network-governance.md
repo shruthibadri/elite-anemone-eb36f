@@ -9,8 +9,6 @@ summary: 'Digital Communication Networks are deeply intertwined in several aspec
 layout: Perspective
 ---
 
-> Digital Communication Networks are deeply intertwined in several aspects of our lives. How can we govern them in ways that maximise the benefits and minimise the harms?
-
 ## Summary
 
 Digital Communication Networks play an infrastructural role in public discourse and private communication. Though societies have successfully governed transformative technologies in the past, the pace and scale of changes enabled by DCNs are unprecedented. The Takshashila Institution believes that India needs to understand these changes and govern DCNs to maximise the surpluses they bring to Indian society while limiting the vulnerabilities they enable/exacerbate.
