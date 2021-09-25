@@ -14,7 +14,7 @@ const Card = ({ title, description, imgSrc, href }) => (
             height={306}
           /> */}
         </Link>
-      ) : (
+      ) : (<></>
     //     <Image
     //       alt={title}
     //       src={imgSrc}
