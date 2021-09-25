@@ -6,7 +6,7 @@ tags: ['high-tech geopolitics']
 draft: false
 imgSrc: '/static/images/canada/lake.jpg'
 summary: 'Digital Communication Networks are deeply intertwined in several aspects of our lives. How can we govern them in ways that maximise the benefits and minimise the harms?'
-layout: PostSimple
+layout: PostPerspective
 ---
 
 > Digital Communication Networks are deeply intertwined in several aspects of our lives. How can we govern them in ways that maximise the benefits and minimise the harms?
