@@ -17,7 +17,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
       <article>
         <div>
           <header>
-            <div className="pb-10 space-y-1 text-center border-b border-gray-200 dark:border-gray-700">
+            {/* <div className="pb-10 space-y-1 text-center border-b border-gray-200 dark:border-gray-700">
               <dl>
                 <div>
                   <dt className="sr-only">Published on</dt>
@@ -26,7 +26,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                   </dd>
                 </div>
               </dl>
-              <div>
+              <div> */}
                 <PageTitle>{title}</PageTitle>
               </div>
             </div>
