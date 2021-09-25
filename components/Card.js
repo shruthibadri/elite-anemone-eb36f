@@ -34,7 +34,7 @@ const Card = ({ title, description, imgSrc, href, tags }) => (
             title
           )}
         </h2>
-        <div className="flex flex-wrap">
+        <div className="mb-3 flex flex-wrap">
         {tags.map((tag) => (
             <Tag key={tag} text={tag} />
         ))}
