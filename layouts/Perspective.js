@@ -9,7 +9,7 @@ import ScrollTopAndComment from '@/components/ScrollTopAndComment'
 import Tag from '@/components/Tag'
 
 export default function PostLayout({ frontMatter, authorDetails, next, prev, children }) {
-  const { date, title, tags } = frontMatter
+  const { date, title, tags, summary } = frontMatter
   return (
     <SectionContainer>
       <BlogSEO url={`${siteMetadata.siteUrl}/perspectives/${frontMatter.slug}`} {...frontMatter} />
