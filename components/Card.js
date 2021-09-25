@@ -26,7 +26,7 @@ const Card = ({ title, description, imgSrc, href, tags }) => (
       )}
       <div className="p-6">
         <div className="flex flex-wrap">
-        tags && {tags.map((tag) => (
+        {tags.map((tag) => (
             <Tag key={tag} text={tag} />
         ))}
         </div>        
