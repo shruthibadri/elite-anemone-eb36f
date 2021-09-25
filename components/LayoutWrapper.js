@@ -20,7 +20,7 @@ const LayoutWrapper = ({ children }) => {
                 </div>
                 {typeof siteMetadata.headerTitle === 'string' ? (
                   <div className="hidden h-6 text-lg font-medium sm:block">
-                    {siteMetadata.headerTitle}
+                    {siteMetadata.headerTitle.toUpperCase()}
                   </div>
                 ) : (
                   siteMetadata.headerTitle
