@@ -20,7 +20,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
             <div className="py-4 space-y-1 text-left">
             {tags.map((tag) => (
                 <Tag key={tag} text={tag} />
-                ))}  
+            ))}  
               <div className="py-2">
                 <PageTitle>{title}</PageTitle>
               </div>            
