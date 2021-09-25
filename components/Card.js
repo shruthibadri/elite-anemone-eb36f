@@ -24,11 +24,11 @@ const Card = ({ title, description, imgSrc, href, tags }) => (
         />
       )}
       <div className="p-6">
-                      <div className="flex flex-wrap">
-                        {tags.map((tag) => (
-                          <Tag key={tag} text={tag} />
-                        ))}
-                      </div>        
+        <div className="flex flex-wrap">
+        {tags.map((tag) => (
+            <Tag key={tag} text={tag} />
+        ))}
+        </div>        
         <h2 className="mb-3 text-2xl font-bold leading-8 tracking-tight">
           {href ? (
             <Link href={href} aria-label={`Link to ${title}`}>
