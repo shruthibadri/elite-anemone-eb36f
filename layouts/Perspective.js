@@ -18,7 +18,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
         <div className="max-w-3xl m-auto">
           <header>
             <div className="py-4 space-y-1 text-left">
-            {tags.map((tag) => (
+              {tags.map((tag) => (
                 <Tag key={tag} text={tag} />
             ))}  
               <div className="py-2">
