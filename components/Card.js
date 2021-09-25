@@ -18,7 +18,7 @@ const Card = ({ title, description, imgSrc, href, tags }) => (
       ) : (
         <Image
           alt={title}
-          src={imgSrc? imgSrc : '/static/images/time-machine.jpg'}
+          src={imgSrc ? imgSrc : '/static/images/time-machine.jpg'}
           className="object-cover object-center lg:h-48 md:h-36"
           width={544}
           height={306}
