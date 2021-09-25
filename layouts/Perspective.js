@@ -17,7 +17,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
       <article>
         <div>
           <header>
-            <div className="py-4 space-y-1 text-left ">
+            <div className="py-4 space-y-1 text-left">
               <div className="py-2">
                 <PageTitle>{title}</PageTitle>
               </div>
