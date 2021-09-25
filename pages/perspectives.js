@@ -20,12 +20,12 @@ export default function Perspectives({ posts, initialDisplayPosts, pagination })
   return (
     <>
       <PageSEO title={`Perspectives - ${siteMetadata.author}`} description={siteMetadata.description} />
-      <ListLayout
+      {/* <ListLayout
         posts={posts}
         initialDisplayPosts={initialDisplayPosts}
         pagination={pagination}
         title="All Posts"
-      />
+      /> */}
     </>
   )
 }
