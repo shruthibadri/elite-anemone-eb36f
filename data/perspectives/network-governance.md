@@ -20,7 +20,7 @@ We define Digital Communication Networks (DCNs) as composite entities consisting
 -   Operator(s): Firms/groups that design/operate these products and services.
 -   Networks: The entities/groups/individuals that adopt/use these products and services, and their interactions with each other.
     
-## Our Approach
+## OUR APPROACH
 Faced with the growing economic and political power of the firms that operate DCNs, nation-states are exploring/experimenting with various approaches to govern them. However, the precise set of problems/harms are not always clearly defined in local contexts. 
 
 A significant portion of the analyses of the effects of DCNs has been undertaken in the context of a limited set of developed economies. A research agenda based on the effects in India is yet to be formulated even as it has amongst the largest user bases for many of these networks. With an estimated 795 million internet connections and an average connection density of 59 connections per 100 people, the headroom for penetration of DCNs and greater effects on Indian society remains high. 
