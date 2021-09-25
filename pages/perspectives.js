@@ -31,7 +31,7 @@ export default function Perspectives({ posts, initialDisplayPosts, pagination })
         </div>
         <div className="container py-12">
           <div className="flex flex-wrap -m-4">
-            {projectsData.map((d) => (
+            {posts.map((d) => (
               <Card
                 key={d.title}
                 title={d.title}
