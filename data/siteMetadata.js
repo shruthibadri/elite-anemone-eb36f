@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Next.js Starter Blog',
   author: 'Tails Azimuth',
-  headerTitle: 'Takshshila Research',
+  headerTitle: 'Takshashila Research',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
