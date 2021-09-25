@@ -44,7 +44,7 @@ export default function Perspectives({ posts, initialDisplayPosts, pagination })
             ))}
           </div>
         </div>
-      </div>      
+      </div>
       {/* <ListLayout
         posts={posts}
         initialDisplayPosts={initialDisplayPosts}
