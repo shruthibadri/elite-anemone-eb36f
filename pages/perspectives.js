@@ -27,7 +27,7 @@ export default function Perspectives({ posts, initialDisplayPosts, pagination })
             Perspectives
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Showcase your projects with a hero image (16 x 9)
+            What we think - distilled.
           </p>
         </div>
         <div className="container py-12">
