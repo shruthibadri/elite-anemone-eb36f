@@ -36,7 +36,7 @@ export default function Perspectives({ posts, initialDisplayPosts, pagination })
               <Card
                 key={d.title}
                 title={d.title}
-                description={d.description}
+                description={d.summary}
                 imgSrc={d.imgSrc}
                 href={d.href}
               />
