@@ -5,7 +5,7 @@ lastmod: '2021-09-11'
 tags: ['high-tech geopolitics']
 draft: false
 imgSrc: '/static/images/canada/lake.jpg'
-summary: 'An overview of the new features released in v1 - code block copy, multiple authors, frontmatter layout and more'
+summary: 'Digital Communication Networks are deeply intertwined in several aspects of our lives. How can we govern them in ways that maximise the benefits and minimise the harms?'
 layout: PostSimple
 ---
 
