@@ -8,7 +8,7 @@ const Card = ({ title, description, imgSrc, href }) => (
         <Link href={href} aria-label={`Link to ${title}`}>
           imgSrc && <Image
             alt={title}
-            src={imgSrc}
+            src={imgSrc? imgSrc : }
             className="object-cover object-center lg:h-48 md:h-36"
             width={544}
             height={306}
