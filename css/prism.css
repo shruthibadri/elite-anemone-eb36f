@@ -16,7 +16,7 @@
 } */
 
 /* Code block styles */
-.code-highlight {
+/* .code-highlight {
   @apply float-left min-w-full;
 }
 
@@ -31,7 +31,7 @@
 .line-number::before {
   @apply pr-4 -ml-2 text-gray-400;
   content: attr(line);
-}
+} */
 
 /* Token styles */
 /**
